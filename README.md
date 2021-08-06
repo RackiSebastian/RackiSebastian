@@ -3,7 +3,7 @@
 <h4><p><em>Cloud Infrastructure and Security Engineer at <a href="https://www.stryker.com">Stryker</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4> 
 </em></p>
 
-[![Linkedin: Sebastian Racki](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/sebastianracki/)
+[![Linkedin: Sebastian Racki](https://img.shields.io/badge/-Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/sebastianracki/)
 
 ### A little more about me...  
 
