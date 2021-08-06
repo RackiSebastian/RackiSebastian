@@ -28,8 +28,6 @@ sebastian_dictionary = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1029-blue)
 
-![Lines of code]
-
 **🐱 My Github Data** 
 > 🏆 481 Contributions in the Year 2021
 > 📜 22 Public Repositories 
