@@ -1,4 +1,4 @@
-<h2>Hello!🏻, I'm Sebastian Racki!</h2>
+<h2>Hello!🏻, I'm Sebastian!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h4><p><em>Cloud Infrastructure and Security Engineer at <a href="https://www.stryker.com">Stryker</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4> 
 </em></p>
