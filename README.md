@@ -19,6 +19,7 @@ sebastian_dictionary = {
     'databases' : ['MongoDB', 'MySQL','sqlite'],
     'misc' : ['Firebase', 'Socket.IO', 'pandas', 'https']
     }
+    ]
   'architecture': ["Serverless Architecture', 'Multi-Page applications'],
   'currentFocus' : 'Starting my own social media app developed in Flutter',
   'funFact' : "Software and cathedrals are much the same — first we build them, then we pray."
