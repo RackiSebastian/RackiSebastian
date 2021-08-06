@@ -3,7 +3,7 @@
 <p><em>Cloud Infrastructure and Security Engineer at <a href="https://www.stryker.com">Stryker</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/sebastianracki/)
+[![Linkedin: Sebastian Racki](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/sebastianracki/)
 
 ### A little more about me...  
 
@@ -28,7 +28,7 @@ sebastian_dictionary = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1029-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-874599%20lines%20of%20code-blue)
+![Lines of code]
 
 **🐱 My Github Data** 
 > 🏆 481 Contributions in the Year 2021
