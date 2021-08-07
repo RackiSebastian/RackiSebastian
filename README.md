@@ -34,4 +34,4 @@ sebastian_dictionary = {
 > 🔑 7 Private Repositories  
 
 
-**I Mostly Code in Flutter** 
+**I Mostly Code in Flutter and Python** 
