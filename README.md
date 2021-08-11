@@ -9,7 +9,7 @@
 
 ```python
 sebastian_dictionary = {
-  'hobbies':['Rock Climbing', 'Mobile Dev', 'League of Legends'],
+  'hobbies':['Rock Climbing', 'Mobile Dev', 'League of Legends','Hackathons'],
   'code':['Python', 'Java', 'Dart','C#'],
   'technologies': [
     {
@@ -21,7 +21,8 @@ sebastian_dictionary = {
     }],
   'architecture': ['Serverless Architecture', 'Multi-Page applications'],
   'currentFocus' : 'Starting my own social media app developed in Flutter',
-  'funFact' : "Software and cathedrals are much the same — first we build them, then we pray."
+  'funFact' : "Software and cathedrals are much the same — first we build them, then we pray.",
+  'Achievements' : "Open Data Hackathon Winner sponsored by Riot Games,MTU,CSO,AdvanceCRT and Lero", 
   ]
 }
 ```
